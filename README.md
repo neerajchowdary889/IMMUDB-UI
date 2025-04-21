@@ -39,7 +39,7 @@ cd IMMUDB‑UI
 python3 -m venv .venv && source .venv/bin/activate
 
 # Install dependencies
-pip install immudb streamlit pandas plotly
+pip install immudb-py streamlit pandas plotly
 ```
 
 ---
